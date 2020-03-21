@@ -2,10 +2,10 @@
 > Custom kernel for a x86 system as part of Computer Engineering Operating System mini project in 2nd year.
 
 **Requirements** :
-    * NASM assembler
-    * gcc
-    * ld
-    * qemu
+1. NASM assembler
+2. gcc
+3. ld
+4. qemu
 
 **Steps to run** :
 1. Create object files for `kernel.c` and `kernel.asm`
